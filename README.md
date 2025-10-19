@@ -1,4 +1,9 @@
-
+🔭 I'm currently working onScaling an AI Lead Engine for cold-calling using Flask microservices, AssemblyAI speech analytics, and CI/CD automation.
+👯 I'm looking to collaborate onAdvanced Multimodal RAG projects merging text and image embeddings to build highly relevant, low-latency AI solutions.
+🤝 I'm looking for help withOptimizing large-scale vector databases and exploring deeper applications of the Model Context Protocol (MCP).
+🌱 I'm currently learningDeeper orchestration of Flask-based inference microservices using Kubernetes and embedding AI for sustainability.
+💬 Ask me aboutHow I cut API latency by 63% with Groq AI and LangChain, or my experience leading a 2K+ member tech community.
+⚡ Fun factI've mentored over 500+ students in hackathons as a Judge and Mentor while also solving 400+ DSA problems.
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/official_shaktesh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)][![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/pandey_shaktesh) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@shakteshpandey2543) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:genaishaktesh@gmail.com) 
 
