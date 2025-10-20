@@ -10,12 +10,12 @@
 
 A brief, **results-focused** introduction built on your resume's biggest wins.
 
-| Focus Area | Result & Key Technology |
-| :--- | :--- |
-| **LLM Workflows** | Built an **AI Lead Engine** with Flask, AssemblyAI Speech Analytics, and CI/CD. |
-| **Multimodal RAG** | Reduced API Latency by **63%** using **Groq AI** and LangChain in a multimodal shopping assistant. |
-| **DevOps & Scaling** | Orchestrating inference microservices with **Kubernetes** and deploying solutions on **AWS** / **GCP**. |
-| **Community Impact** | Founder of **GODC**, a 2K+ member tech community, and mentor to **500+ students** in hackathons. |
+| | Focus Area | Result & Key Technology |
+| :---: | :--- | :--- |
+| 🔵 | **LLM Workflows** | Built an **AI Lead Engine** with Flask, AssemblyAI Speech Analytics, and CI/CD. |
+| 🟢 | **Multimodal RAG** | Reduced API Latency by **63%** using **Groq AI** and LangChain in a multimodal shopping assistant. |
+| 🟡 | **DevOps & Scaling** | Orchestrating inference microservices with **Kubernetes** and deploying solutions on **AWS** / **GCP**. |
+| 🟣 | **Community Impact** | Founder of **GODC**, a 2K+ member tech community, and mentor to **500+ students** in hackathons. |
 
 ---
 
@@ -90,7 +90,7 @@ A brief, **results-focused** introduction built on your resume's biggest wins.
 
 | Connect | Coding Profiles | Support |
 | :---: | :---: | :---: |
-| [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaktesh-pandey-3a2936245/) | [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=yellow)](https://leetcode.com/u/Shakteshdna31/) | [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Shaktesh Pandey) |
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaktesh-pandey-3a2936245/) | [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=yellow)](https://leetcode.com/u/Shakteshdna31/) | [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Shaktesh Pandey) |
 | [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:genaishaktesh@gmail.com) | [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/shakteshdna31) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@shakteshpandey2543) |
 | [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/pandey_shaktesh) | | [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/official_shaktesh) |
 
