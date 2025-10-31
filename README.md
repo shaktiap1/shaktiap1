@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://emojis.slackmojis.com/emojis/images/1531848510/4349/coding.gif?1531848510" width="80" alt="Coding GIF">
   <h1><b>SHAKTESH PANDEY</b></h1>
-  <p>AI/ML Engineer | Specializing in Multimodal RAG, LLM Workflows, and Scalable Microservices</p>
+  <p>AI/ML Engineer | Specializing in Multimodal Agentic RAG Workflows, and Scalable Microservices</p>
 </div>
 
 ---
