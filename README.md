@@ -1,36 +1,33 @@
 <div align="center">
   <img src="https://pbs.twimg.com/profile_images/1879556770459521024/09yfqDq1_400x400.jpg" width="120" style="border-radius: 50%;" alt="Shaktesh Pandey Profile">
   <h1><b>SHAKTESH PANDEY</b></h1>
-  <p>Undergraduate AI Researcher | Architecting Data-Centric Intelligence & Scalable Agentic Systems</p>
-  <p><i>"Solving real-world ambiguity through high-fidelity dataset engineering and robust model architectures."</i></p>
+  <p>Undergraduate AI Researcher | Architecting Data-Centric Intelligence, Synthetic Datasets, and Scalable Agentic Systems</p>
 </div>
 
 ---
 
-## 🚀 Research & Engineering Impact
+## 🚀 The Research Methodology
 
-A snapshot of my work in bridging the gap between **theoretical ML research** and **scalable real-world application**.
+A brief, **impact-focused** overview of my work bridging theoretical ML and production systems.
 
 | | Research Area | Innovation & Outcome |
 | :---: | :--- | :--- |
-| 🔵 | **Agentic Architectures** | Engineered an autonomous **AI Lead Engine** capable of complex semantic intent analysis using Flask & AssemblyAI. |
-| 🟢 | **Data-Centric RAG** | Optimized information retrieval in **Multimodal Systems**, reducing latency by **63%** via **Groq AI** hardware acceleration and clean data pipelines. |
-| 🟡 | **Scalable Infra** | Orchestrating high-availability inference microservices on **Kubernetes** to deploy research models into production environments on **AWS/GCP**. |
-| 🟣 | **Knowledge Dissemination** | Founder of **GODC**, fostering a research-first culture for **2K+ members** and mentoring **500+ students** in algorithmic problem solving. |
+| 🔵 | **Agentic Systems** | Engineered an **Autonomous AI Lead Engine** capable of semantic intent analysis using Flask & AssemblyAI. |
+| 🟢 | **Data-Centric RAG** | Reduced Inference Latency by **63%** using **Groq AI** and curated datasets for a Multimodal Assistant. |
+| 🟡 | **Scalable MLOps** | Orchestrating high-availability inference microservices with **Kubernetes** to deploy research models on **AWS** / **GCP**. |
+| 🟣 | **Knowledge Impact** | Founder of **GODC**, fostering a research-first culture for **2K+ members** and mentoring **500+ students** in algorithms. |
 
 ---
 
 ## 💡 Current Research Focus
 
-I am currently obsessed with the **"Quality > Quantity"** paradigm in Machine Learning, focusing on how curated datasets drive model performance.
-
 | Prompt | Focus |
 | :--- | :--- |
-| **🔭 Experimenting With** | Curating and synthesizing **high-fidelity datasets** to fine-tune Small Language Models (SLMs) for domain-specific accuracy. |
-| **👯 Collaborating On** | Architecting **Multimodal RAG** workflows that are resilient to noisy real-world data and low-latency constraints. |
-| **🤝 Looking For Help** | Advanced research into **Vector Space optimization** and **Model Context Protocol (MCP)** for better state management. |
-| **🌱 Currently Learning** | Deep diving into **Data Topology**, production-grade **Kubernetes** patterns, and **Sustainable AI** compute layers. |
-| **💬 Ask Me About** | Strategies for **Dataset Distillation**, cutting inference latency by **63%**, or scaling technical communities. |
+| **🔭 Working On** | Engineering **Synthetic Data Pipelines** to fine-tune SLMs (Small Language Models) for domain mastery. |
+| **👯 Collaborating On** | Building **Noise-Resilient Multimodal RAG** architectures and optimizing low-latency inference. |
+| **🤝 Looking For Help** | Advanced research into **Vector Space Optimization** and **Model Context Protocol (MCP)**. |
+| **🌱 Currently Learning** | Deep diving into **Data Topology**, production-grade **Kubernetes**, and **Sustainable AI** layers. |
+| **💬 Ask Me About** | Strategies for **Dataset Distillation**, cutting latency by **63%**, or scaling technical communities. |
 | **⚡ Algorithmic Rigor** | Solved **400+ Complex DSA problems** to ensure mathematical efficiency in every model I deploy. |
 
 ---
