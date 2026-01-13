@@ -1,21 +1,21 @@
 <div align="center">
   <img src="https://pbs.twimg.com/profile_images/1879556770459521024/09yfqDq1_400x400.jpg" width="120" style="border-radius: 50%;" alt="Shaktesh Pandey Profile">
   <h1><b>SHAKTESH PANDEY</b></h1>
-  <p>Undergraduate AI Researcher | Architecting Data-Centric Intelligence, Synthetic Datasets, and Scalable Agentic Systems</p>
+  <p><b>AI Researcher | Designing Data-Centric Intelligence, Synthetic Datasets & Scalable Agentic Systems</b></p>
 </div>
 
 ---
 
 ## 🚀 The Research Methodology
 
-A brief, **impact-focused** overview of my work bridging theoretical ML and production systems.
+A concise, **impact-driven overview** of my work at the intersection of **theoretical ML, data-centric research, and production-grade systems**.
 
 | | Research Area | Innovation & Outcome |
 | :---: | :--- | :--- |
-| 🔵 | **Agentic Systems** | Engineered an **Autonomous AI Lead Engine** capable of semantic intent analysis using Flask & AssemblyAI. |
-| 🟢 | **Data-Centric RAG** | Reduced Inference Latency by **63%** using **Groq AI** and curated datasets for a Multimodal Assistant. |
-| 🟡 | **Scalable MLOps** | Orchestrating high-availability inference microservices with **Kubernetes** to deploy research models on **AWS** / **GCP**. |
-| 🟣 | **Knowledge Impact** | Founder of **GODC**, fostering a research-first culture for **2K+ members** and mentoring **500+ students** in algorithms. |
+| 🔵 | **Agentic Systems** | Designed an **Autonomous AI Lead Engine** with semantic intent analysis, stateful task execution, and failure-aware orchestration using Flask and AssemblyAI. |
+| 🟢 | **Data-Centric RAG** | Reduced end-to-end inference latency by **63%** using **Groq AI**, optimized retrieval pipelines, and carefully curated multimodal datasets. |
+| 🟡 | **Scalable MLOps** | Built and operated **high-availability inference microservices** using Kubernetes, enabling reproducible research deployments on **AWS & GCP**. |
+| 🟣 | **Knowledge Impact** | Founder of **GODC**, cultivating a research-first engineering culture for **2K+ members** and mentoring **500+ students** in algorithms and systems thinking. |
 
 ---
 
@@ -23,12 +23,12 @@ A brief, **impact-focused** overview of my work bridging theoretical ML and prod
 
 | Prompt | Focus |
 | :--- | :--- |
-| **🔭 Working On** | Engineering **Synthetic Data Pipelines** to fine-tune SLMs (Small Language Models) for domain mastery. |
-| **👯 Collaborating On** | Building **Noise-Resilient Multimodal RAG** architectures and optimizing low-latency inference. |
-| **🤝 Looking For Help** | Advanced research into **Vector Space Optimization** and **Model Context Protocol (MCP)**. |
-| **🌱 Currently Learning** | Deep diving into **Data Topology**, production-grade **Kubernetes**, and **Sustainable AI** layers. |
-| **💬 Ask Me About** | Strategies for **Dataset Distillation**, cutting latency by **63%**, or scaling technical communities. |
-| **⚡ Algorithmic Rigor** | Solved **400+ Complex DSA problems** to ensure mathematical efficiency in every model I deploy. |
+| **🔭 Working On** | Engineering **Synthetic Data Pipelines** for fine-tuning SLMs (Small Language Models) to achieve domain-specific generalization. |
+| **👯 Collaborating On** | Designing **Noise-Resilient Multimodal RAG** architectures with explicit evaluation metrics and retrieval quality benchmarks. |
+| **🤝 Looking For Help** | Advanced exploration of **Vector Space Optimization**, retrieval geometry, and **Model Context Protocol (MCP)**–driven agent control. |
+| **🌱 Currently Learning** | Deep dives into **Data Topology**, production-grade **Kubernetes internals**, and **Sustainable AI system design**. |
+| **💬 Ask Me About** | Dataset distillation strategies, cutting inference latency by **63%**, or scaling technical communities with long-term impact. |
+| **⚡ Algorithmic Rigor** | Solved **400+ complex DSA problems**, reinforcing mathematical efficiency and correctness in every system I build. |
 
 ---
 
@@ -69,16 +69,13 @@ A brief, **impact-focused** overview of my work bridging theoretical ML and prod
 ## 📊 Research Output
 
 <div align="center">
-  
-  ### Publications (Code & Data)
-  
-  ![](https://github-readme-stats.vercel.app/api?username=shaktiap1&theme=dark&hide_border=true&show_icons=true&include_all_commits=false&count_private=false)
-  
-  ![](https://nirzak-streak-stats.vercel.app/?user=shaktiap1&theme=dark&hide_border=true)
-  
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shaktiap1&theme=dark&hide_border=true&layout=compact)
-  
-  ![](https://github-profile-trophy.vercel.app/?username=shaktiap1&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
+
+### Publications, Code & Knowledge Artifacts
+
+![](https://github-readme-stats.vercel.app/api?username=shaktiap1&theme=dark&hide_border=true&show_icons=true)
+![](https://nirzak-streak-stats.vercel.app/?user=shaktiap1&theme=dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shaktiap1&theme=dark&hide_border=true&layout=compact)
+![](https://github-profile-trophy.vercel.app/?username=shaktiap1&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
 
 </div>
 
@@ -88,12 +85,14 @@ A brief, **impact-focused** overview of my work bridging theoretical ML and prod
 
 <div align="center">
 
-| Scientific Profile | Algorithmic Profile | Support Research |
+| Scientific / Professional | Algorithms | Knowledge & Support |
 | :---: | :---: | :---: |
-| [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaktesh-pandey-3a2936245/) | [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=yellow)](https://leetcode.com/u/Shakteshdna31/) | [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Shaktesh Pandey) |
-| [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:genaishaktesh@gmail.com) | [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/shakteshdna31) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@shakteshpandey2543) |
-| [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/pandey_shaktesh) | | [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/official_shaktesh) |
+| [LinkedIn](https://www.linkedin.com/in/shaktesh-pandey-3a2936245/) | [LeetCode](https://leetcode.com/u/Shakteshdna31/) | [Medium](https://medium.com/@genaishaktesh) |
+| [Email](mailto:genaishaktesh@gmail.com) | [HackerRank](https://www.hackerrank.com/profile/shakteshdna31) | [Buy Me a Coffee](https://buymeacoffee.com/ShakteshPandey) |
+| [X](https://x.com/pandey_shaktesh) |  | [YouTube](https://youtube.com/@shakteshpandey2543) |
+|  |  | [Instagram](https://instagram.com/official_shaktesh) |
 
 ---
-Visitor Count: [![](https://visitcount.itsvg.in/api?id=shaktiap1&icon=0&color=0)](https://visitcount.itsvg.in)
+Visitor Count: ![](https://visitcount.itsvg.in/api?id=shaktiap1&icon=0&color=0)
+
 </div>
