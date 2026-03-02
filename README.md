@@ -7,7 +7,7 @@
 ---
 
 
-## 🔍 Engineering Focus
+##  Engineering Focus
 
 I work on **end-to-end GenAI systems** with a strong emphasis on:
 
@@ -20,7 +20,7 @@ My work spans **data ingestion → retrieval → inference → deployment → mo
 
 ---
 
-## 🧠 Core Systems Work
+##  Core Systems Work
 
 | Area | What I Build | Why It Matters |
 |:--|:--|:--|
@@ -32,7 +32,7 @@ My work spans **data ingestion → retrieval → inference → deployment → mo
 
 ---
 
-## ⚙️ System Architecture (Typical)
+##  System Architecture (Typical)
 
 - Document ingestion & parsing
 - Chunking strategies tuned for retrieval geometry
@@ -48,7 +48,7 @@ Frameworks like **LangChain / LangGraph** are treated as **tools**, not dependen
 
 ---
 
-## 🧪 Current Technical Interests
+##  Current Technical Interests
 
 | Area | Focus |
 |:--|:--|
@@ -60,7 +60,7 @@ Frameworks like **LangChain / LangGraph** are treated as **tools**, not dependen
 
 ---
 
-## 🛠️ Tech Stack (Practical, Not Exhaustive)
+##  Tech Stack (Practical, Not Exhaustive)
 
 ### AI / ML
 - Python, PyTorch, TensorFlow
@@ -84,7 +84,7 @@ Frameworks like **LangChain / LangGraph** are treated as **tools**, not dependen
 
 ---
 
-## 📈 Engineering Output
+##  Engineering Output
 
 <div align="center">
 
