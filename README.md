@@ -81,7 +81,7 @@ Frameworks like **LangChain / LangGraph** are treated as **tools**, not dependen
 - Monitoring & logging pipelines
 
 ### Data & Storage
-- , MongoDB, MySQL
+- MongoDB, MySQL
 - Vector stores ( Weviate, Pinecone, Milvus, FAISS ) & indexing strategies
 
 ---
